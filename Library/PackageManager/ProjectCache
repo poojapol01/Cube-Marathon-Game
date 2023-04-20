@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638175276500022388
-    m_Hash: 1421907397
+      ticks: 638175303794119587
+    m_Hash: 755808496
   m_LockFileStatus:
     m_FilePath: E:/Unity Hub/Hub/Projects/Cube Marathon/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638175279017037029
-    m_Hash: 2494348924
+      ticks: 638175303794119587
+    m_Hash: 623110053
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
